@@ -1,0 +1,12 @@
+Flask
+SQLAlchemy
+mysqlclient
+telethon
+python-telegram-bot
+openai
+flask-cors
+flask-login
+flask-wtf
+wtforms
+requests
+python-dotenv 
